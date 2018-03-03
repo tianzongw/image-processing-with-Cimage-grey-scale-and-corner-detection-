@@ -1,2 +1,2 @@
 # image-processing-with-Cimage-grey-scale-and-corner-detection-
-rgb to greyscale conversion and corner detection with Cimage
+This C++ project rgb to greyscale conversion and corner detection with Cimage
